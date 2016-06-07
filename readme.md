@@ -1,5 +1,7 @@
 #合同勉強会in大都会岡山 -2016 Winter-
 
+[![Join the chat at https://gitter.im/gbdaitokai/gbdaitokai2016winter](https://badges.gitter.im/gbdaitokai/gbdaitokai2016winter.svg)](https://gitter.im/gbdaitokai/gbdaitokai2016winter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##このリポジトリはなに？
 
 [合同勉強会in大都会岡山 -2016 Wintter-](http://gbdaitokai.doorkeeper.jp/events/46795) の発表順の元ネタです。  
