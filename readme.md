@@ -14,4 +14,4 @@
 - [community.md](https://github.com/gbdaitokai/gbdaitokai2016winter/blob/master/community.md)
   * 所属コミュニティ(複数可)
 
-よくわからない人は[@razon](https://twitter.com/razon)にリプライ飛ばすなりしてください。
+よくわからない人は[@razon](https://twitter.com/razon)にリプライ飛ばすか[Gitter](https://gitter.im/gbdaitokai/gbdaitokai2016winter)へどうぞ。
