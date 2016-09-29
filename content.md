@@ -14,6 +14,8 @@ shapeless, Funtional Java, highj, derive4j
 
 ※全てを紹介するには明らかに時間が足りないので、会場の空気次第で発表内容を削る可能性があります。
 
+***
+
 ## タイトル
 
 Try Azure Machine Learning
