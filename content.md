@@ -54,7 +54,7 @@ C++関連の発表、技術的な発表飽きてきたので
 
 ## 登壇者
 
-阿部 信介(@mao_instanlife)
+阿部 信介(@mao_instantlife)
 
 ## 概要
 
