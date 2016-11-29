@@ -95,3 +95,20 @@ C++関連の発表、技術的な発表飽きてきたので
 その概要から実際のサーバーを監視できるようになるまでの手順を、ライブデモ形式で一気に紹介します。
 
 このセッションを見るだけで、あなたが管理しているサーバの監視も簡単にできるようになること、間違いなしです！
+
+***
+
+ASP.NET Core on Mac
+
+## 登壇者
+
+きよくら ならみ(@kiyokura) / Okayama IT Engineers Community
+
+## 概要
+
+今年正式にリリースされたOSS＆クロスプラットホームなASP.NET Core 1.x。いままでの.NET FrameworkやASP.NETと異なり、MacやLinuxでも開発・動作が可能となっています。
+
+今回はMac上で色々なツールを使って実際に開発やデバッグを行うデモをしてみたいと思います。
+
+※ご興味のある方は11/27日に開催された[オープンソースカンファレンス2016 Hiroshima](http://www.ospn.jp/osc2016-hiroshima/)で講演した[『ASP.NET Core on Linux』の資料](https://docs.com/kiyokura/8020/asp-net-core-on-linux)をななめ読みしておいてもらえるとよいかもしれません！
+
