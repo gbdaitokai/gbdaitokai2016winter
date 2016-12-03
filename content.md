@@ -111,4 +111,15 @@ ASP.NET Core on Mac
 今回はMac上で色々なツールを使って実際に開発やデバッグを行うデモをしてみたいと思います。
 
 ※ご興味のある方は11/27日に開催された[オープンソースカンファレンス2016 Hiroshima](http://www.ospn.jp/osc2016-hiroshima/)で講演した[『ASP.NET Core on Linux』の資料](https://docs.com/kiyokura/8020/asp-net-core-on-linux)をななめ読みしておいてもらえるとよいかもしれません！
+***
 
+## タイトル
+
+WebエンジニアのためのGoogle AnalyticsとインハウスSEOとか
+
+## 登壇者
+
+竹原　正起([@kitaindia](https://twitter.com/kitaindia))
+
+## 概要
+自社でWebサービスをやっていくと気になっていくSEOのこととか、エンジニア主導で行っていけるようなGoogle Analyticsの使い方とかを話していけたらと思います。
