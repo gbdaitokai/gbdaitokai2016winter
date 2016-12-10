@@ -53,6 +53,20 @@ Try Azure Machine Learning
 
 ## タイトル
 
+Google Cloud Platform 2016
+
+## 登壇者
+
+岩田　隆治([@qt_luigi](https://twitter.com/qt_luigi)) / GCPUG岡山
+
+## 概要
+
+2016年の[Google Cloud Platform](https://cloud.google.com/)をダイジェスト（トピックス/機械学習プラットフォーム/Microsoft対応）でご紹介させて頂きます。
+
+***
+
+## タイトル
+
 WebエンジニアのためのGoogle AnalyticsとインハウスSEOとか
 
 ## 登壇者
