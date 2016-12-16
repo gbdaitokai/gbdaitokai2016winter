@@ -67,7 +67,7 @@ Google Cloud Platform 2016
 
 ## タイトル
 
-WebエンジニアのためのGoogle AnalyticsとインハウスSEOとか
+DjangoとRailsのちがい
 
 ## 登壇者
 
@@ -75,7 +75,8 @@ WebエンジニアのためのGoogle AnalyticsとインハウスSEOとか
 
 ## 概要
 
-自社でWebサービスをやっていくと気になっていくSEOのこととか、エンジニア主導で行っていけるようなGoogle Analyticsの使い方とかを話していけたらと思います。
+今年はDjangoというPythonのWebアプリケーションフレームワークを使った年でした。
+今までフレームワークは主にRailsを使っていたのですが、Railsとの違い、 Railsとは違ったDjangoの利点・面白さについてお話できたらと思います。
 
 ***
 
