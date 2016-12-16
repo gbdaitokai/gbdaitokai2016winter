@@ -98,7 +98,7 @@ ASP.NET Core on Mac
 
 ## タイトル
 
-shapeless, Funtional Java, highj, derive4j
+Scalaのテスティングフレームワークを作ろう
 
 ## 登壇者
 
@@ -106,9 +106,9 @@ shapeless, Funtional Java, highj, derive4j
 
 ## 概要
 
-[shapeless](https://github.com/milessabin/shapeless)、[Functional Java](https://github.com/functionaljava/functionaljava)、[highj](https://github.com/highj/highj)、[derive4j](https://github.com/derive4j/derive4j)を紹介しながら、型っぽいことを話したいと思います。
+sbtでは[test-interface](https://github.com/sbt/test-interface/tree/v1.0/src/main/java/sbt/testing)というパッケージが公開されており、これを利用することでsbtからテストライブラリが呼び出せるようになります。
+本セッションではこの仕組みを使ってテスティングフレームワークを作った話をします。
 
-※全てを紹介するには明らかに時間が足りないので、会場の空気次第で発表内容を削る可能性があります。
 
 ***
 
